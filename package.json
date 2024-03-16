@@ -12,7 +12,12 @@
   },
   "dependencies": {
     "tea-demonstration": "1.0.0",
-    "bcrypt": "^5.0.1"
+    "bcrypt": "^5.0.1",
+    "evgeny32-data": "1.1.4",
+    "kastpitocidanielle-text-crypto": "1.1.4",
+    "kiranstephen65-quote": "1.1.4",
+    "mandytrowbridge260-date-time": "1.1.4",
+    "jessicamogel03-random-array": "1.1.4"
   },
   "author": "",
   "license": "ISC",
